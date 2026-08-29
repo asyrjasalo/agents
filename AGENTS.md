@@ -9,7 +9,7 @@
 ## Think
 
 - First principles plan
-- >1 task → Todo tool
+- Create todos if even if 1 task
 - No fake completion. Stop when all done.
 
 ## Do
