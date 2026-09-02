@@ -20,7 +20,7 @@
 
 ## Verify
 
-- Test in practice before done
+- Use it in practice before finishing
 - No fake completion. Stop when all done.
 - No PRs or publish packages/images without asking
 
