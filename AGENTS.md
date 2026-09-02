@@ -9,8 +9,8 @@
 ## Plan
 
 - First principles plan
-- Conflicting info → Ask tool
-- Don't ask permission to proceed with implementation
+- Only if conflicting info → Ask tool
+- Don't ask to proceed with implementation
 
 ## Build
 
@@ -20,7 +20,7 @@
 
 ## Verify
 
-- Test by using yourself in practice before done
+- Test in practice before done
 - No fake completion. Stop when all done.
 - No PRs or publish packages/images without asking
 
