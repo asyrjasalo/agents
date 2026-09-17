@@ -21,6 +21,6 @@
 - no opening issues, pull requests, push or publish on any repo w/o ask
 
 ## finish
-- trim excessive code comments
-- risks → propose fix path → confirm to do
-- propose next task
+- bug or issue → Fix. Never ask.
+- risk → Propose fix path.
+- no fix or risk → Propose next task.
