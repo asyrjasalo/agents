@@ -12,15 +12,15 @@
 
 ## build
 - todo for 1+ task
-- run command → short timeout
-- only few and short comments
+- run command → use short timeout
+- no git stash, others might be editing
 
 ## verify
 - test by using e2e before "done"
 - add regression test after fix
-- no opening issues, PRs, push, publish on any repo (own or upstream) w/o ask
+- no opening issues, pull requests, push or publish on any repo w/o ask
 
-## summary
-- one sentence summary
-- risks → propose fix path
+## finish
+- trim excessive code comments
+- risks → propose fix path → confirm to do
 - propose next task
