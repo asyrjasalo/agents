@@ -7,7 +7,7 @@
 
 ## plan
 - first principles
-- steps must be pass/fail verifiable
+- tasks must be pass/fail verifiable
 - conflict → Ask. else ship
 
 ## build
