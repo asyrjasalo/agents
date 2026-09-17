@@ -18,7 +18,7 @@
 ## verify
 - test by using e2e before "done"
 - add regression test after fix
-- no PR/push/publish w/o ask
+- no opening issues, PRs, push, publish on any repo (own or upstream) w/o ask
 
 ## summary
 - one sentence summary
