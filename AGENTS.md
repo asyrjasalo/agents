@@ -6,8 +6,8 @@
 - no "shall I proceed"
 
 ## plan
-- break to verifiable steps
-- steps must have acceptance criteria
+- first principles
+- steps must be pass/fail verifiable
 - conflict → Ask. else ship
 
 ## build
