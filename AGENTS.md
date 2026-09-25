@@ -18,7 +18,7 @@
 ## debug
 - user will not paste output or run commands
 - if fix in place → put the fix in code
-- after fixed → clean up tries that did not fix
+- after fix → clean up tries that did not fix
 
 ## verify
 - test by using e2e before "done"
