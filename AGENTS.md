@@ -16,9 +16,9 @@
 - no git stash, others might be editing
 
 ## debug
-- user will not paste output or run commands
-- if fix in place → put the fix in code
-- after fix → clean up tries that did not fix
+- you run commands and read output, user does not
+- no guess, search logs and web
+- leave only the working fix in the code
 
 ## verify
 - test by using e2e before "done"
