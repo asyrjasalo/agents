@@ -19,15 +19,6 @@
       "installedAt": "2026-08-16T07:42:18.831Z",
       "updatedAt": "2026-08-16T07:42:26.224Z"
     },
-    "agentic-eval": {
-      "source": "github/awesome-copilot",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/github/awesome-copilot.git",
-      "skillPath": "skills/agentic-eval/SKILL.md",
-      "skillFolderHash": "2322ac3a69fa63b58268525481bf684b9ddf51a3",
-      "installedAt": "2026-08-16T07:42:36.852Z",
-      "updatedAt": "2026-08-16T07:42:36.852Z"
-    },
     "browser-harness": {
       "source": "browser-use/browser-harness",
       "sourceType": "github",
@@ -92,15 +83,6 @@
       "skillFolderHash": "e0d86d8c3660f593f8bb3823a7bddd14746f30d6",
       "installedAt": "2026-08-29T15:05:27.755Z",
       "updatedAt": "2026-08-29T15:05:27.755Z"
-    },
-    "design-taste-frontend": {
-      "source": "Leonxlnx/taste-skill",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
-      "skillPath": "skills/taste-skill/SKILL.md",
-      "skillFolderHash": "a6d128e53b4ec0238baee751dde33bf707adb5ec",
-      "installedAt": "2026-08-29T15:27:19.216Z",
-      "updatedAt": "2026-08-29T15:27:19.216Z"
     },
     "humanizer": {
       "source": "blader/humanizer",
