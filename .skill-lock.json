@@ -28,15 +28,6 @@
       "installedAt": "2026-08-16T07:42:36.852Z",
       "updatedAt": "2026-08-16T07:42:36.852Z"
     },
-    "brownfield-onboarding": {
-      "source": "cyberelf/agent_skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/cyberelf/agent_skills.git",
-      "skillPath": "skills/brownfield-onboarding/SKILL.md",
-      "skillFolderHash": "7bb665d6ed738e7ff22580503a9abd31983e8196",
-      "installedAt": "2026-08-16T07:42:39.486Z",
-      "updatedAt": "2026-08-16T07:42:39.486Z"
-    },
     "browser-harness": {
       "source": "browser-use/browser-harness",
       "sourceType": "github",
@@ -92,15 +83,6 @@
       "skillFolderHash": "c8a6189b121b7333a84892d3f43e33dde0bc88cb",
       "installedAt": "2026-08-16T07:43:20.027Z",
       "updatedAt": "2026-08-16T07:43:20.027Z"
-    },
-    "skill-conductor": {
-      "source": "smixs/skill-conductor",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/smixs/skill-conductor.git",
-      "skillPath": "skills/skill-conductor/SKILL.md",
-      "skillFolderHash": "b7d3e89c61085ec0669ff42dea0ada4c56b034c3",
-      "installedAt": "2026-08-16T07:43:31.721Z",
-      "updatedAt": "2026-08-16T07:43:31.721Z"
     },
     "archify": {
       "source": "tt-a1i/archify",
