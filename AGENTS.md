@@ -3,21 +3,21 @@
 ## speak
 - spartan. terse. pragmatic.
 - sections + tables + lists.
-- no "shall I proceed"
+- no em dashes (—) or en dashes (–)
 
 ## plan
 - first principles
-- tasks must be pass/fail verifiable
-- conflict → Ask. else ship
+- create todos → true/false verifiable items
+- conflict → Ask. else build
 
 ## build
-- todo for 1+ task
+- do, no "shall I proceed"
 - run command → set short timeout
 - no git stash, others might be editing
 
 ## debug
-- you run commands and read output, user does not
-- no guess, search logs and web
+- you run commands, user does not
+- search web for latest info on issue
 - leave only the working fix in the code
 
 ## verify
@@ -25,7 +25,7 @@
 - add regression test after fix
 - no creating issues, pull requests, push or publish on any repo w/o ask
 
-## finish
+## ship
 - bug or issue → Fix. Never ask.
 - risk → Propose fix path.
 - no fixes or risks → Propose next task.
