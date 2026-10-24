@@ -145,7 +145,7 @@ evaluation = js("""(()=>{
     var delivery = document.querySelector('[class*="delivery"]')?.innerText?.trim();
     var inStock = !document.querySelector('[class*="out-of-stock"], [class*="sold-out"]');
     var seller = document.querySelector('[id*="seller"] a, div._3enH42')?.innerText?.trim();
-
+    
     return JSON.stringify({price, rating, ratingCount, highlights, delivery, inStock, seller});
 })()""")
 ```

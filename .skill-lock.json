@@ -6,37 +6,36 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/langfuse/skills.git",
       "skillPath": "skills/langfuse/SKILL.md",
-      "skillFolderHash": "bb24f62a476bba3fa81d602ee63ea5b14f4018e0",
+      "skillFolderHash": "e328647f773572c449699be03e719e95ab151a6f",
       "installedAt": "2026-08-16T07:36:25.754Z",
-      "updatedAt": "2026-08-20T21:48:06.794Z"
+      "updatedAt": "2026-10-24T23:07:36.588Z"
     },
     "agent-browser": {
       "source": "vercel-labs/agent-browser",
       "sourceType": "github",
       "sourceUrl": "https://github.com/vercel-labs/agent-browser.git",
       "skillPath": "skills/agent-browser/SKILL.md",
-      "skillFolderHash": "037e8078db4b20b4aa25c04f21c6de7d335ec449",
+      "skillFolderHash": "82def67855a0d2aad7794207951820fa5422fdb0",
       "installedAt": "2026-08-16T07:42:18.831Z",
-      "updatedAt": "2026-08-16T07:42:26.224Z"
+      "updatedAt": "2026-10-24T23:07:37.559Z"
     },
     "browser-harness": {
       "source": "browser-use/browser-harness",
       "sourceType": "github",
       "sourceUrl": "https://github.com/browser-use/browser-harness.git",
       "skillPath": "SKILL.md",
-      "skillFolderHash": "41108b8676d4bdb58b26ab3b079c0b7b0f8f3926",
+      "skillFolderHash": "6d1c39adbcba5599a35182a19bcfbb0859e50abb",
       "installedAt": "2026-08-16T07:42:44.093Z",
-      "updatedAt": "2026-08-20T21:48:33.113Z"
+      "updatedAt": "2026-10-24T23:07:40.716Z"
     },
     "context7": {
       "source": "netresearch/context7-skill",
       "sourceType": "github",
       "sourceUrl": "https://github.com/netresearch/context7-skill.git",
       "skillPath": "skills/context7/SKILL.md",
-      "skillFolderHash": "58e86ee9e214556b36fd3f53c8ff275de2d7b839",
-      "pluginName": "context7",
+      "skillFolderHash": "b37a84b3b799dc646bb1819b24d0c3521bce76bf",
       "installedAt": "2026-08-16T07:42:50.190Z",
-      "updatedAt": "2026-08-16T07:42:50.190Z"
+      "updatedAt": "2026-10-24T23:07:41.754Z"
     },
     "find-skills": {
       "source": "vercel-labs/skills",
@@ -80,10 +79,10 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/blader/humanizer.git",
       "skillPath": "SKILL.md",
-      "skillFolderHash": "e2e92e7b4b8229253ed5c8e81dc65463fdeddda5",
+      "skillFolderHash": "8c307f367c91bd974002f10f2be2965d642c13df",
       "pluginName": "humanizer",
       "installedAt": "2026-09-03T12:03:03.607Z",
-      "updatedAt": "2026-09-03T12:03:03.607Z"
+      "updatedAt": "2026-10-24T23:07:42.743Z"
     },
     "grill-me": {
       "source": "mattpocock/skills",
