@@ -112,6 +112,24 @@
       "skillFolderHash": "fc621a41771cbfa1836b9e41592c6e123936d133",
       "installedAt": "2026-10-24T22:51:27.502Z",
       "updatedAt": "2026-10-24T22:51:27.502Z"
+    },
+    "herdr-workflow-create": {
+      "source": "aorumbayev/herdr-workflows",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/aorumbayev/herdr-workflows.git",
+      "skillPath": "skills/herdr-workflow-create/SKILL.md",
+      "skillFolderHash": "eb233bf93e05d0a538c4d980ca23355ee4303e47",
+      "installedAt": "2026-10-25T17:15:53.038Z",
+      "updatedAt": "2026-10-25T17:15:53.038Z"
+    },
+    "herdr-workflow-upgrade": {
+      "source": "aorumbayev/herdr-workflows",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/aorumbayev/herdr-workflows.git",
+      "skillPath": "skills/herdr-workflow-upgrade/SKILL.md",
+      "skillFolderHash": "3688525b52b536ac678b0342134e768d4b334c3d",
+      "installedAt": "2026-10-25T17:15:53.040Z",
+      "updatedAt": "2026-10-25T17:15:53.040Z"
     }
   },
   "dismissed": {
