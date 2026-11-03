@@ -121,6 +121,15 @@
       "skillFolderHash": "3688525b52b536ac678b0342134e768d4b334c3d",
       "installedAt": "2026-10-25T17:15:53.040Z",
       "updatedAt": "2026-10-25T17:15:53.040Z"
+    },
+    "answer-me-with-html": {
+      "source": "QingYunA/answer-me-with-html",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/QingYunA/answer-me-with-html.git",
+      "skillPath": "skills/answer-me-with-html/SKILL.md",
+      "skillFolderHash": "cb237c624c8d78c6e982e730ee93f9f486ea4447",
+      "installedAt": "2026-11-03T21:15:14.662Z",
+      "updatedAt": "2026-11-03T21:15:14.662Z"
     }
   },
   "dismissed": {
