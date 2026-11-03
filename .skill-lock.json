@@ -28,15 +28,6 @@
       "installedAt": "2026-08-16T07:42:44.093Z",
       "updatedAt": "2026-11-02T08:27:56.282Z"
     },
-    "context7": {
-      "source": "netresearch/context7-skill",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/netresearch/context7-skill.git",
-      "skillPath": "skills/context7/SKILL.md",
-      "skillFolderHash": "b37a84b3b799dc646bb1819b24d0c3521bce76bf",
-      "installedAt": "2026-08-16T07:42:50.190Z",
-      "updatedAt": "2026-10-24T23:07:41.754Z"
-    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
