@@ -15,18 +15,18 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/vercel-labs/agent-browser.git",
       "skillPath": "skills/agent-browser/SKILL.md",
-      "skillFolderHash": "aee3afd3dd9c879a14816dd6dca77c938f8c9c10",
+      "skillFolderHash": "29ba9c12789b1c54ab76ad40e2472e646d141b85",
       "installedAt": "2026-08-16T07:42:18.831Z",
-      "updatedAt": "2026-11-02T08:27:52.981Z"
+      "updatedAt": "2026-11-03T08:11:05.358Z"
     },
     "browser-harness": {
       "source": "browser-use/browser-harness",
       "sourceType": "github",
       "sourceUrl": "https://github.com/browser-use/browser-harness.git",
       "skillPath": "SKILL.md",
-      "skillFolderHash": "91a4b629e5b3bc9b72c2b60129a409e709a5d03b",
+      "skillFolderHash": "6e69c7fbe97edded9934e3fb305d9af3536f941f",
       "installedAt": "2026-08-16T07:42:44.093Z",
-      "updatedAt": "2026-11-02T08:27:56.282Z"
+      "updatedAt": "2026-11-03T08:11:07.828Z"
     },
     "find-skills": {
       "source": "vercel-labs/skills",
@@ -100,9 +100,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
       "skillPath": "skills/diagram-design/SKILL.md",
-      "skillFolderHash": "bcecaf90a9082b1820d32c9416665bec0d9d713e",
+      "skillFolderHash": "0d0f10932e394ea9cc8d0c9bbd0dd6d95d7de943",
       "installedAt": "2026-10-24T22:51:27.502Z",
-      "updatedAt": "2026-11-02T08:28:01.661Z"
+      "updatedAt": "2026-11-03T08:11:09.395Z"
     },
     "herdr-workflow-create": {
       "source": "aorumbayev/herdr-workflows",
